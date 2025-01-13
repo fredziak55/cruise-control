@@ -1,4 +1,4 @@
-# Cruise control implementation
+# Cruise control implementation in Python
 Requirements:
 Bokeh
 numpy
